@@ -12,4 +12,4 @@
 - The price of the houses depend on the average income of the population.
 
 ## PR :
-- 
+- https://github.com/hayabalasmeh/linear-regression/pull/1
